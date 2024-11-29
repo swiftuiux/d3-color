@@ -1,7 +1,7 @@
 # SwiftUI Color extender
 
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Figor11191708%2Fd3-color%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/igor11191708/d3-color)
-[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Figor11191708%2Fd3-color%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/igor11191708/d3-color)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fd3-color%2Fbadge%3Ftype%3Dswift-versions)](https://swiftpackageindex.com/swiftuiux/d3-color)
+[![](https://img.shields.io/endpoint?url=https%3A%2F%2Fswiftpackageindex.com%2Fapi%2Fpackages%2Fswiftuiux%2Fd3-color%2Fbadge%3Ftype%3Dplatforms)](https://swiftpackageindex.com/swiftuiux/d3-color)
 
 Useful extensions and functions used with SwiftUI Color
 
